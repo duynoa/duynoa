@@ -1,41 +1,124 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Hi, I'm Noa">
+
+# 👋 Hi, I'm Nguyen Duy Noa
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
+
 </div>
 
-<p align="center">
-    <img width="10%" align="center" alt="PIC" height="100%"
-        src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
-</p>
-
-<p align="center">
-    <a href="https://github.com/NguyenDuyNoa">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?lines=My+fullname+is+Nguyen+Duy+Noa;I'm+a+Front-end+web+developer&center=true&width=500&height=50">
-    </a>
-</p>
-
-# Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-# GitHub Stats :
-<div style={{ 
-  display: 'flex', 
-  justifyContent: 'center', 
-  alignItems: 'center',
-  flexDirection: 'row',
-  width: '100%',
-  gap: '1rem'
-}}>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=NguyenDuyNoa&theme=radical&hide_border=false&include_all_commits=false&count_private=false" 
-    alt="GitHub stats" 
-    style={{ width: '100%', height: 'auto' }}
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDuyNoa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-    alt="Top languages" 
-    style={{ width: '80%', height: 'auto' }}
-  />
-</div>
-    
 ---
-[![](https://visitcount.itsvg.in/api?id=NguyenDuyNoa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+💻 Frontend Developer passionate about building modern, responsive, and high-performance web applications.
+
+🌱 Currently focusing on:
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Zustand
+* TanStack Query
+
+🎯 Goal:
+
+> Build products that are fast, scalable, and provide excellent user experiences.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Styling
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
+
+### State Management & Data
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
+
+### Backend & Database
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NguyenDuyNoa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDuyNoa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=NguyenDuyNoa&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenDuyNoa&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/NguyenDuyNoa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=NguyenDuyNoa\&icon=5\&color=12)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code. Learn. Build. Repeat.
+
+</div>
