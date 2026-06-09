@@ -68,27 +68,10 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NguyenDuyNoa&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDuyNoa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NguyenDuyNoa&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NguyenDuyNoa&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://streak-stats.demolab.com?user=duynoa&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -104,17 +87,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/NguyenDuyNoa">
+  <a href="https://github.com/duynoa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NguyenDuyNoa&icon=5&color=12" />
 </p>
 
 ---
